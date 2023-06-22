@@ -60,7 +60,6 @@ class VatServiceProvider extends ServiceProvider
         });
     }
 
-
     /**
      * Get the services provided by the provider.
      *
